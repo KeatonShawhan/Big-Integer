@@ -1,0 +1,19 @@
+List.cpp - The file that is the main constructor of the List ADT with helper functions
+
+List.h - The header file that is used for the List ADT
+
+ListTest.c - The file that was used for individual testing of the List.cpp functions
+
+BigInteger.cpp - The file that is the main constructor of the BigInteger ADT with helper functions
+
+BigInteger.h - The header file that is used for the BigInteger ADT
+
+BigIntegerTest.c - The file that was used for individual testing of the BigInteger.cpp functions
+
+Arithmetic.cpp - The main executable file that uses the BigInteger.cpp class
+
+Makefile - The file that is used to compile Artihmetic.c and BigIntegerTest (or BigIntegerClient) for testing. Also used to check for memory leaks
+
+README - A file to briefly descibe each file in this repository
+
+The main purpose of this project is to develop a program capable of taking in two arbitrarily-long numbers from the user given in an input file, performing mathmatical operations on them, and then printing the results to an output file.
